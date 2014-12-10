@@ -1,4 +1,4 @@
-### Security Certificate Collection for Chinese Malware
+### Security Certificate Collection for Chinese Software
 
 > You are most welcome to fork and add more. If any of certificates expired, contact me or create a merge request.
 
@@ -60,7 +60,7 @@ Subject: Beijing Rising Information Technology Corporation Limited
 ---
 **Tencent Technology(Shenzhen) Company Limited.cer**
 
-Serial Number: ‎‎‎‎51 bd 5d 8e 45 b8 2a 02 10 f1 7f e4 c5 23 34 68
+Serial Number: ‎‎‎‎‎‎71 70 bd 93 cf 3f 18 9a e6 45 2b 51 4c 49 34 0e
 
 Issuer: VeriSign Class 3 Code Signing 2010 CA
 
@@ -69,3 +69,16 @@ Valid from: ‎‎‎‎‎Thursday, ‎17 ‎January ‎2013 8:00:00 a.m.
 Valid to: ‎‎‎‎‎Wednesday, ‎17 ‎February ‎2016 7:59:59 a.m.
 
 Subject: Tencent Technology(Shenzhen) Company Limited
+
+---
+**Qihoo 360 Software (Beijing) Company Limited**
+
+Serial Number: ‎‎‎‎51 bd 5d 8e 45 b8 2a 02 10 f1 7f e4 c5 23 34 68
+
+Issuer: VeriSign Class 3 Code Signing 2010 CA
+
+Valid from: ‎‎‎‎‎‎Monday, ‎11 ‎March ‎2013 8:00:00 a.m.
+
+Valid to: ‎‎‎‎‎‎Friday, ‎11 ‎March ‎2016 7:59:59 a.m.
+
+Subject: Qihoo 360 Software (Beijing) Company Limited
