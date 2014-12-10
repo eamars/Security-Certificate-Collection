@@ -71,7 +71,7 @@ Valid to: ‎‎‎‎‎Wednesday, ‎17 ‎February ‎2016 7:59:59 a.m.
 Subject: Tencent Technology(Shenzhen) Company Limited
 
 ---
-**Qihoo 360 Software (Beijing) Company Limited**
+**Qihoo 360 Software (Beijing) Company Limited.cer**
 
 Serial Number: ‎‎‎‎51 bd 5d 8e 45 b8 2a 02 10 f1 7f e4 c5 23 34 68
 

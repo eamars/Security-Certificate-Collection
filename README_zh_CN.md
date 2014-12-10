@@ -71,7 +71,7 @@
 使用者: Tencent Technology(Shenzhen) Company Limited
 
 ---
-**Qihoo 360 Software (Beijing) Company Limited**
+**Qihoo 360 Software (Beijing) Company Limited.cer**
 
 序列号: ‎‎‎‎51 bd 5d 8e 45 b8 2a 02 10 f1 7f e4 c5 23 34 68
 
