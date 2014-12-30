@@ -34,15 +34,15 @@
 ---
 **Beijing Kingsoft Security software Co.,Ltd.cer**
 
-序列号: ‎‎‎07 bc 3a 51 b5 89 e5 af 43 29 1d f8 4e a4 c5 71
+序列号: ‎‎‎‎39 a0 15 6d 17 e1 0e ca 0c 14 86 fe 5f 0e 7d a1
 
-颁发者: VeriSign Class 3 Code Signing 2010 CA
+颁发者: Symantec Class 3 SHA256 Code Signing CA
 
-有效期从: ‎‎‎‎2011‎年‎12‎月‎26‎日 8:00:00
+有效期从: ‎‎‎‎20114年‎12‎月‎24日 8:00:00
 
-有效期至: ‎‎‎‎2014‎年‎12‎月‎26‎日 7:59:59
+有效期至: ‎‎‎‎2018年‎1月‎23日 7:59:59
 
-使用者:  Beijing Kingsoft Security software Co.,Ltd
+使用者: Beijing Kingsoft Security software Co.,Ltd
 
 ---
 **Beijing Rising Information Technology Corporation Limited.cer**

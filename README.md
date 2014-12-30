@@ -3,7 +3,7 @@
 > You are most welcome to fork and add more. If any of certificates expired, contact me or create a merge request.
 
 ##### Certificate information
-Latest Update: 10/12/2014
+Latest Update: 30/12/2014
 
 ---
 **2345.com.cer**
@@ -34,15 +34,15 @@ Subject: Beijing baidu Netcom science and technology co.ltd
 ---
 **Beijing Kingsoft Security software Co.,Ltd.cer**
 
-Serial Number: ‎‎‎07 bc 3a 51 b5 89 e5 af 43 29 1d f8 4e a4 c5 71
+Serial Number: ‎‎‎‎39 a0 15 6d 17 e1 0e ca 0c 14 86 fe 5f 0e 7d a1
 
-Issuer: VeriSign Class 3 Code Signing 2010 CA
+Issuer: Symantec Class 3 SHA256 Code Signing CA
 
-Valid from: ‎‎‎Monday, ‎26 ‎December ‎2011 8:00:00 a.m.
+Valid from: ‎‎‎‎Wednesday, ‎24 ‎December ‎2014 8:00:00 a.m.
 
-Valid to: ‎‎‎Friday, ‎26 ‎December ‎2014 7:59:59 a.m.
+Valid to: ‎‎‎‎Tuesday, ‎23 ‎January ‎2018 7:59:59 a.m.
 
-Subject:  Beijing Kingsoft Security software Co.,Ltd
+Subject: Beijing Kingsoft Security software Co.,Ltd
 
 ---
 **Beijing Rising Information Technology Corporation Limited.cer**
